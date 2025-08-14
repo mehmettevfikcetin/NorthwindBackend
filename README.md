@@ -135,19 +135,18 @@ Uygulama başlatıldıktan sonra Swagger UI üzerinden tüm endpoint'leri test e
 
 ## 📄 Lisans
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 ## 📞 İletişim
 
 Proje hakkında sorularınız için:
 - GitHub Issues kullanabilirsiniz
-- Email: [your-email@example.com]
+- Email: [m.tevfik.09@gmail.com]
 
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
 https://localhost:5001/swagger
 
-📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır.
