@@ -1,4 +1,3 @@
-# NorthwindBackend
 # 🏗️ Northwind Backend
 
 Bu proje, **.NET Core Web API** kullanılarak geliştirilmiş, **katmanlı mimari (Layered Architecture)** prensiplerine uygun bir Northwind Backend uygulamasıdır.
